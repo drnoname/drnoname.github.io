@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. NoNAME W."
+title                    : "Data Insight"
 title_separator          : "-"
 name                     : "Dr. NoNAME W."
-description              : "Remember Me, Not My Name."
+description              : "Algorithms, Modeling"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Wang"
+  name             : "Dr. No Name"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "In the center of nowhere"
+  bio              : "Research Scientist"
+  location         : "Center of Nowhere"
   email            :
   links:
     - label: "Email"
@@ -115,16 +115,17 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://drnoname.github.io"
+
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "https://twitter.com/mchenwang"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "drnoname"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
