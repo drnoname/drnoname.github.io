@@ -3,10 +3,10 @@ title: "How To Use Markdown Language"
 date: 2019-02-10
 tags: [markdown]
 author_profile: true
-header:
-    mathjax: "true"
+# header:
 #    image: "/images/banner.png"
-excerpt: "How-To"
+excerpt: "How To Use Makedown Language"
+mathjax: "true"
 ---
 
 # H1 Heading
