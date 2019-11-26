@@ -6,7 +6,7 @@ author_profile: true
 #header:
 #    image: "/images/banner.png"
 excerpt: "How-To"
-mathjax: "true"
+mathjax: true
 ---
 
 # H1 Heading
