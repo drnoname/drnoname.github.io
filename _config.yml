@@ -18,13 +18,14 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Rookie Notes"
 title_separator          : "-"
+subtitle                 : "From Zero to Hero."
 name                     : "Dr. NoNAME W."
 description              : "From Zero to Hero."
 logo                     : "/images/rookie_notes_log.png"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/rookie_notes_log.png"
+teaser                   : # "/images/rookie_notes_log.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
