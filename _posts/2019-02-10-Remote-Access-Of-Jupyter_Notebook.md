@@ -6,6 +6,7 @@ author_profile: true
 #header:
 #    image: "/images/banner.png"
 excerpt: "How-To"
+mathjax: "true"
 ---
 
 # H1 Heading
@@ -30,3 +31,9 @@ Python code block:
 ```
 
 here is an image:
+
+Here is some math:
+
+$$ z = x + y $$
+
+Inline version: $$ z = x + y $$

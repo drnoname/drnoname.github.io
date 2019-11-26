@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Data Insight"
 title_separator          : "-"
-name                     : "Dr. NoNAME W."
-description              : "Algorithms, Modeling"
+# name                     : "Dr. NoNAME W."
+# description              : "Algorithms, Modeling"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. No Name"
+  name             : "Dr. NoName W."
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Scientist"
   location         : "Center of Nowhere"
