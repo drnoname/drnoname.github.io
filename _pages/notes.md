@@ -3,7 +3,7 @@ layout: archive
 permalink: /notes/
 ---
 
-{% for post in paginator.posts.notes %}
+{% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
