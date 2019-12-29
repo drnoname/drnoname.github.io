@@ -303,8 +303,7 @@ defaults:
 
   # _notes
   - scope:
-      path: _pages/notes
-      type: pages
+      path: _posts/notes
+      type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: post
