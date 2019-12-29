@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: home
 permalink: /notes/
 category: notes
 title: &title "Notes"
