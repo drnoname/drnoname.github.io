@@ -10,4 +10,6 @@ pagination:
   category: notes
 ---
 
-{% include popular-topics.html %}
+{% for post in paginator.posts.notes %}
+  {% include archive-single.html %}
+{% endfor %}
