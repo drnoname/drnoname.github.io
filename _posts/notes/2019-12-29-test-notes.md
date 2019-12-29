@@ -1,8 +1,8 @@
 ---
 title: "Testing Notes"
-excerpt: "My impressions of the film Half Nelson, starring Ryan Gosling."
+excerpt: "This is an excerpt."
 categories: [notes]
 tags: [review]
 support: false
 ---
-My gosh! 
+My gosh!

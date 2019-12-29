@@ -9,3 +9,5 @@ pagination:
   enabled: true
   category: notes
 ---
+
+{% include popular-topics.html %}
