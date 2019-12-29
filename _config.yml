@@ -300,3 +300,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _notes
+  - scope:
+      path: _pages/notes
+      type: pages
+    values:
+      layout: single
+      author_profile: true
