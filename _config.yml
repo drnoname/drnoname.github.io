@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. C.W."
+  name             : "Chen Wang"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a rookie."
   location         : "Somewhere"
   email            :
   links:
@@ -300,7 +300,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
