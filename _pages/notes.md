@@ -1,15 +1,12 @@
 ---
-layout: home
+layout: archive
 permalink: /notes/
-category: notes
-title: &title "Notes"
-alt_title: *title
-introduction: *excerpt
-pagination:
-  enabled: true
-  category: notes
 ---
+
+{{ content }}
 
 {% for post in paginator.posts.notes %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% include paginator.html %}
